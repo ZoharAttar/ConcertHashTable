@@ -1,0 +1,5 @@
+getNodesSizes-> 4,0,6
+reception_AverageSteps-> 4
+reception-> 139025105,150029593,399679244,455455169,491447188,512811215,530535932,586539818,590036402,637259642
+seatingArrangement(functionNum=1)->0,1,1,8
+seatingArrangement(functionNum=2)->2,6,6,21
